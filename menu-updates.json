@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T07:18:10-07:00",
+  "updated": "2026-09-29T14:08:53-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -1230,6 +1230,848 @@
       "confidence": "reported",
       "found": "2026-09-29",
       "fact": "Local Bottle Logic pour; easy sipping between shows."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "Backlot Michelada",
+      "d": "Calidad Mexican lager michelada with chile-lime seasoning and lime.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$18.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/hollywood-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Quick outdoor bar in Hollywood Land; solid beer cocktail when you want spice."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "Pickle Michelada",
+      "d": "Calidad Mexican lager with pickle juice, tomato mix, chile-lime seasoning, and a pickle spear.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/hollywood-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Briny and bold — order when the Backlot feels too classic."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "Calidad Classic Mexican Lager",
+      "d": "Santa Barbara Mexican-style lager, ABV about 5%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/hollywood-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "House lager at Hollywood Lounge; pairs with the micheladas."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "La Bodega Hazlitt Hazy IPA",
+      "d": "Whittier hazy IPA, ABV about 7%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.25",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/hollywood-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Local SoCal IPA pour at the Hollywood Land outdoor bar."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "Weekender IPA",
+      "d": "Ventura IPA, ABV about 7.2%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.25",
+      "window": "Year-round",
+      "source": "https://www.laughingplace.com/p/hollywood-lounge-guide-dining-disneyland-resort/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Rotating craft IPA option next to the michelada board."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Hollywood Lounge",
+      "n": "Unsung Blood Orange Seltzer",
+      "d": "Anaheim blood orange hard seltzer, ABV about 7.9%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.laughingplace.com/p/hollywood-lounge-guide-dining-disneyland-resort/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Lighter pour if you want citrus without a full cocktail."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Award Wieners",
+      "n": "Hollywood Sunset IPA",
+      "d": "Artifex Brewing hazy-leaning IPA from San Diego, ABV about 6.8%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/award-wieners",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Year-round craft IPA at the Hollywood Land hot dog stand."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Award Wieners",
+      "n": "Modelo Especial",
+      "d": "Classic Mexican lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/award-wieners",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Straightforward lager with a Hollywood Cooler or chili dog."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Award Wieners",
+      "n": "Seaborn Pineapple Mango Margarita",
+      "d": "Encinitas ready-to-pour margarita, ABV about 10%, served over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/award-wieners",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "One of the stronger QS pours in DCA — share if you are splitting."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Flo's V8 Cafe",
+      "n": "Fender Bender IPA",
+      "d": "Brewery X Anaheim IPA, ABV about 6.7%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/flos-v8-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Official Cars Land beer callout on Flo's dining page."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Flo's V8 Cafe",
+      "n": "Pacifico Cerveza Clara",
+      "d": "Mexican pilsner-style lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/flos-v8-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Easy lager beside a Big Dipper cheeseburger."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Flo's V8 Cafe",
+      "n": "Seaborn Passion Guava Margarita",
+      "d": "Encinitas margarita, ABV about 7%, served over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/flos-v8-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Tropical QS margarita when Desert Pear is not what you want."
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Karlito's Mexican Lager",
+      "d": "Karl Strauss Mexican lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/smokejumpers-grill/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Standard beer pour at the Grizzly Peak burger counter."
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Aurora Hoppyalis IPA",
+      "d": "Karl Strauss San Diego IPA, ABV about 7%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/smokejumpers-grill/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Hop-forward pick next to the burgers and onion rings."
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Caramel-Pecan Irish Cream Cold Brew Cocktail",
+      "d": "Irish cream liqueur with pecan cold brew, salted maple cold foam, caramel drizzle, and waffle pieces.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/smokejumpers-grill/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Dessert-leaning cocktail twin to the BearPaw Basin cold brew."
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Frozen Coca-Cola with Jack Daniel's",
+      "d": "Frozen Coca-Cola spiked with Jack Daniel’s Tennessee Whiskey.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/smokejumpers-grill/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Slushy whiskey cola for hot Grizzly Peak afternoons."
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Frozen Coca-Cola with Captain Morgan",
+      "d": "Frozen Coca-Cola spiked with Captain Morgan rum.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/smokejumpers-grill/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Rum twin to the Jack Daniel’s frozen Coke."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "The Dopest Hazy IPA",
+      "d": "Crowns & Hops hazy IPA from Los Angeles, ABV about 6.8%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Flagship craft pour beside the pretzel window."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "Golden Road Mango Cart",
+      "d": "Mango wheat ale, ABV about 4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Light wheat beer; also available as a michelada upgrade."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "Tower X West Coast IPA",
+      "d": "Karl Strauss piney citrus West Coast IPA, ABV about 7.3%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Hoppiest year-round tap at Bayside Brews."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "Pacifico Cerveza Clara",
+      "d": "Mexican pilsner-style lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Crisp lager for the Paradise Gardens beer stand."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "Watermelon Pineapple Margarita",
+      "d": "Tequila with watermelon schnapps and pineapple juice, chile-lime rim.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Signature cocktail at the pretzel-and-beer kiosk."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Bayside Brews",
+      "n": "Ace Peach Hard Cider",
+      "d": "Peach hard cider, ABV about 5%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/bayside-brews",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Cider option; can also be ordered as a peach michelada."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Classic Lime Margarita",
+      "d": "House lime margarita built for the street-taco window.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://ropedropplanner.com/dlr/dining/cocina-cucamonga-mexican-grill-dca",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Pair with quesabirria — mobile order food, grab drinks at the window."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Cool as a Cucumber Cocktail",
+      "d": "Cucumber-chia lime agua fresca spiked with tequila.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://ropedropplanner.com/dlr/dining/cocina-cucamonga-mexican-grill-dca",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Agua fresca cocktail; same base as the non-alcoholic cucumber drink."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Horchata Cocktail",
+      "d": "House horchata agua fresca with rum.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://ropedropplanner.com/dlr/dining/cocina-cucamonga-mexican-grill-dca",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Rice-and-cinnamon classic with a rum kick."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Karlito's Mexican Lager",
+      "d": "Karl Strauss Mexican lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://ropedropplanner.com/dlr/dining/cocina-cucamonga-mexican-grill-dca",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Beer pour next to the taco line in San Fransokyo."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Karlito's Mexican Lager Michelada",
+      "d": "Karlito’s Mexican lager dressed as a michelada.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.50",
+      "window": "Year-round",
+      "source": "https://ropedropplanner.com/dlr/dining/cocina-cucamonga-mexican-grill-dca",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Spiced beer cocktail for hot San Fransokyo days."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "X-Periment",
+      "d": "Tequila with mango and habanero syrups plus mango popping spheres.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$23.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Spicy-sweet lab cocktail; ask for a glowing Pym particle add-on."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "Molecular Mule",
+      "d": "Seaborn cucumber ginger mule, ABV about 10%, served over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "High-ABV mule in the outdoor beer lab."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "R&D Espresso Martini",
+      "d": "Espresso martini with cereal-infused milk, dark chocolate espresso beans, and cereal crumbles.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$22.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Dessert cocktail with a cereal twist — evening pick-me-up."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "Liberty Punch",
+      "d": "Litmus lemonade layered with Blue Hawaiian and citrus meringue foam.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$20.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Layered showpiece drink; photo-friendly foam top."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "Litmus Lemonade",
+      "d": "Svedka vodka lemonade with wild strawberry syrup.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Base lemonade cocktail used in the Liberty Punch stack."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Tasting Lab",
+      "n": "Neon Rainbows IPA",
+      "d": "Brewery Ommegang IPA, ABV about 6.7%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-tasting-lab",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Core craft IPA on the Pym reverse-draft taps."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza & Pasta",
+      "n": "Stone Delicious Hazy IPA",
+      "d": "Escondido hazy IPA, ABV about 7.7%, listed as vegan.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/boardwalk-pizza-pasta/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Craft IPA at the Paradise Gardens pizza counter."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza & Pasta",
+      "n": "Brewery X Huckleberry Seltzer",
+      "d": "Anaheim huckleberry hard seltzer, ABV about 5%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/boardwalk-pizza-pasta/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Light seltzer option with pizza or pasta."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza & Pasta",
+      "n": "Wither Hills Sauvignon Blanc",
+      "d": "New Zealand sauvignon blanc by the glass.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/boardwalk-pizza-pasta/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "White wine pour at Boardwalk Pizza & Pasta."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza & Pasta",
+      "n": "Garnet Pinot Noir",
+      "d": "Pinot noir by the glass.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/boardwalk-pizza-pasta/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Red wine option beside the pizza slices."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone 4 - Frozen Cone-Coctions",
+      "n": "Modelo Especial",
+      "d": "Classic Mexican lager, ABV about 4.4%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/cozy-cone-motel-4-frozen-cone-coctions",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Year-round beer at Cone 4 when seasonal seltzers rotate out."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone 4 - Frozen Cone-Coctions",
+      "n": "Vodka & All Natural Lemonade",
+      "d": "Vodka mixed with Fillmore’s Fuelin’ Groovy lemonade.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/cozy-cone-motel-4-frozen-cone-coctions",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Simple vodka lemonade — always on the Cone 4 board."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone 4 - Frozen Cone-Coctions",
+      "n": "Vodka & Pomegranate Limeade",
+      "d": "Vodka mixed with Fillmore’s pomegranate limeade.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/cozy-cone-motel-4-frozen-cone-coctions",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Pomegranate twin to the lemonade vodka drink."
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone 4 - Frozen Cone-Coctions",
+      "n": "Tarantula Hill Liquid Hazy Candy IPA",
+      "d": "Thousand Oaks hazy candy IPA, ABV about 7.5%.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.25",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/cozy-cone-motel-4-frozen-cone-coctions",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Current craft IPA pour at Frozen Cone-Coctions."
     }
   ]
 }
