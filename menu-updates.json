@@ -1,1 +1,226 @@
-{"updated":"2026-09-28T21:00:00-07:00","by":"Krave Scout","items":[]}
+{
+  "updated": "2026-09-28T20:15:00-07:00",
+  "by": "Krave Scout",
+  "items": [
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Chicken Tostada Salad",
+      "d": "Grilled chicken on a fried tortilla shell with rice, beans, cotija, guacamole, pico, sour cream, and lime cilantro-avocado dressing.",
+      "w": "Meal",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$15.49",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://wdwnt.com/2026/09/updated-rancho-del-zocalo-restaurante-menu-debuting-at-disneyland/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "Debuted Sep 3 via Disney Eats; eats more like a full platter than a light salad."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Nachos",
+      "d": "Tortilla chips with beans, guajillo cheese sauce, house-made and tomatillo salsas, red jalapeños, sour cream, and guacamole.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$14.99",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://thedisneyscoop.com/rancho-del-zocalo-adds-nachos-a-shrimp-cocktail-and-horchata-slushies-to-its-disneyland-menu/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "No protein add-on available when asked; best eaten right away before chips soften."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Mexican-style Shrimp Cocktail",
+      "d": "Poached shrimp with tomatoes, red onion, cilantro, cucumber, and celery in spicy cocktail sauce, served with crackers.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$12.99",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://www.disneyfoodblog.com/2026/09/08/review-disneyland-added-a-new-6-side-and-i-will-be-ordering-100-try-to-stop-me/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "Cold appetizer with crackers, not tortillas - about ten shrimp per order."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Duo of Cauliflower Tacos",
+      "d": "Plant-based cauliflower al pastor on corn tortillas with house-made salsa, rice, beans, and a lime wedge.",
+      "w": "Meal",
+      "s": [
+        "year"
+      ],
+      "t": [],
+      "price": "$15.49",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://mickeyblog.com/2026/09/02/full-list-of-new-menu-items-coming-to-disneylands-rancho-del-zocalo-restaurante/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "Returning favorite and the only plant-based entrée on the current Rancho menu."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Fresas Con Crema",
+      "d": "Fresh strawberries served with sweet cream.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [],
+      "price": "$7.99",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://mickeyblog.com/2026/09/02/full-list-of-new-menu-items-coming-to-disneylands-rancho-del-zocalo-restaurante/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "Returning dessert; light finish after the heavier platters and nachos."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Jamaica Slushy",
+      "d": "Frozen jamaica (hibiscus) slushy.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "$8.49",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://thedisneyscoop.com/rancho-del-zocalo-adds-nachos-a-shrimp-cocktail-and-horchata-slushies-to-its-disneyland-menu/",
+      "confidence": "reported",
+      "found": "2026-09-28"
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Horchata Slushy",
+      "d": "Frozen horchata slushy with classic cinnamon-rice flavor.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "top"
+      ],
+      "price": "$8.49",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://www.disneyfoodblog.com/2026/09/08/review-disneyland-added-a-new-6-side-and-i-will-be-ordering-100-try-to-stop-me/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "DFB called this the highlight of the Rancho refresh - same price as Iced Chocolate Cafe."
+    },
+    {
+      "action": "add",
+      "land": "adventure",
+      "v": "Bengal Barbecue",
+      "n": "Garlic Naan",
+      "d": "Grilled flatbread basted with herb butter; the stand's cheapest bite and a natural skewer side.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "hidden"
+      ],
+      "price": "$5.79",
+      "window": "Year-round as of Aug 28, 2026",
+      "source": "https://thedisneyscoop.com/bengal-barbecue-garlic-naan/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "Quiet menu add Aug 28; pairs great with leftover skewer sauce, especially Bengal Beef."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Paradise Garden Grill",
+      "n": "Chilaquiles Carnitas Torta",
+      "d": "Red chilaquiles, refried beans, avocado spread, queso fresco, pickled red onions, and a fried egg on a torta, served with chips.",
+      "w": "Meal",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "top"
+      ],
+      "price": "$14.99",
+      "window": "Aug 18 through Nov 2, 2026 (Plaza de la Familia)",
+      "source": "https://disneyexperiences.com/disneyland-press/release/plaza-de-la-familia-fact-sheet/",
+      "confidence": "official",
+      "found": "2026-09-28",
+      "fact": "Plaza de la Familia returning favorite; last served in 2024 before this year's comeback."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Paradise Garden Grill",
+      "n": "Nuez Gelatina Cake",
+      "d": "Cinnamon sponge cake with pecan gelatina and whipped topping.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$8.49",
+      "window": "Aug 18 through Nov 2, 2026 (Plaza de la Familia)",
+      "source": "https://www.disneyfoodblog.com/2026/08/08/celebrate-day-of-the-dead-with-new-coco-eats-and-souvenirs/",
+      "confidence": "reported",
+      "found": "2026-09-28",
+      "fact": "New for Plaza de la Familia 2026 at Paradise Garden Grill."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Paradise Garden Grill",
+      "n": "Marigold Margarita",
+      "d": "Wine-based lime margarita with a marigold garnish and orange sugar rim.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Aug 18 through Nov 2, 2026 (Plaza de la Familia)",
+      "source": "https://disneyexperiences.com/disneyland-press/release/plaza-de-la-familia-fact-sheet/",
+      "confidence": "official",
+      "found": "2026-09-28",
+      "fact": "Plaza de la Familia signature sip; wine-based, not tequila."
+    }
+  ]
+}
