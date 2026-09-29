@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T20:15:00-07:00",
-  "by": "Krave Scout",
+  "updated": "2026-09-29T07:18:10-07:00",
+  "by": "Krave Skout",
   "items": [
     {
       "action": "add",
@@ -221,6 +221,1015 @@
       "confidence": "official",
       "found": "2026-09-28",
       "fact": "Plaza de la Familia signature sip; wine-based, not tequila."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Fuzzy Tauntaun",
+      "d": "Peach vodka cocktail with orange-tangerine juice, cane sugar, and the famous buzzing foam on top.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$20.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Standby queue only; the foam tingles — sip before it settles."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Jedi Mind Trick",
+      "d": "Grapefruit-rose vodka with falernum, blue curaçao, white grape, lime, and grapefruit bitters.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Bright and blue; a lighter option next to the heavier punches."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "The Outer Rim",
+      "d": "Patrón Silver tequila cocktail with pomegranate liqueur, lime, cane sugar, and exotic fruit purée.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Tequila standout at the cantina; pairs well with the Happabore Sampler."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Jet Juice",
+      "d": "Maker's Mark bourbon with chile and pomegranate liqueurs, white grape juice, and lemon.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Bourbon with a mild chile kick — good mid-afternoon pick-me-up."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Yub Nub",
+      "d": "Pineapple and spiced rum punch with citrus and passion fruit; souvenir mug version costs more.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$20.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Ask for the glass version first if you do not want the souvenir mug upcharge."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Corellian Spike Cold Brew",
+      "d": "Maker's Mark bourbon cold brew with coffee liqueur and cinnamon cream on top.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ogas-cantina",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Coffee-forward nightcap; also sold with a souvenir DJ R-3X mug."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Over Budget",
+      "d": "Vodka cocktail with passion fruit, lime, agave, and ginger beer — a Pixar Pier staple.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$20.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Available upstairs and at Boardwalk Dining downstairs; spicy-sweet and easy to drink."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Open Ocean with a Splash",
+      "d": "Frozen raspberry rum cocktail with blue curaçao, orgeat, agave, and lime.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Best enjoyed on the waterfront patio facing Paradise Bay."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Scream Canister",
+      "d": "Rum cocktail with cream of coconut plus pineapple and orange juices, misted with bitters.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Tropical and creamy; solid pairing with the lobster nachos."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Sunrise Spectacular",
+      "d": "Bourbon with pineapple and orange juices, agave nectar, and a dash of bitters.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$20.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Bourbon-forward but juice-bright — works at brunch or dinner."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "The Lamplight Old Fashioned",
+      "d": "Bourbon old fashioned with citrus, Spanish liqueur, maraschino, bitters, and a Luxardo cherry.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$20.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "House classic; quieter upstairs seats make it easier to savor."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Water District Gimlet",
+      "d": "Gin gimlet with lychee syrup and lime juice.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lamplight-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Floral and crisp; a lighter counterpoint to the rum drinks."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Carthay Mai Tai",
+      "d": "Surfrider rum mai tai with maraschino, orgeat, pineapple and citrus, topped with Myers's dark rum.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$23.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "In-park Buena Vista Street lounge — not a hotel bar. Patio seats overlook the street."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Aviation Cocktail",
+      "d": "Plymouth gin with crème de violette, maraschino liqueur, and fresh lemon, served up.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$24.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Classic cocktail list is the draw here; ask for a quieter indoor table."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Scotch Mist",
+      "d": "Johnnie Walker Black Label scotch with a lemon peel over crushed ice — known as Walt's drink of choice.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$21.25",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Simple and historic; the lounge menu calls out the Walt connection."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Double Pear Martini",
+      "d": "Double Cross and Absolut Pears vodkas with pear nectar and lime, served up with a baby pear.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$24.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Sweet pear profile; a good shareable sip before Carthay Circle dinner."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Old Fashioned",
+      "d": "Woodford Reserve bourbon with Angostura and orange bitters, Luxardo cherry, and a purified-water ice sphere.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$23.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Ice sphere keeps the pour cold without watering it down quickly."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Tequila Daisy",
+      "d": "Don Julio Reposado with Cointreau, crème de violette, lime, agave, and egg whites, served up.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$24.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/carthay-circle-lounge",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Egg-white cocktail — silky texture; skip if you prefer spirit-forward drinks."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Blue Bayou Restaurant",
+      "n": "Hurricane",
+      "d": "Bacardi Reserva Ocho and Myers’s dark rum with orange, passion fruit, grenadine, and lime.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-new-orleans-square-blue-bayou-restaurant",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Signature Bayou sip; ask for waterside seating when you check in."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Blue Bayou Restaurant",
+      "n": "Melograno Orange Blossom Martini",
+      "d": "Gin martini-style cocktail with a delicate orange blossom floral aroma.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-new-orleans-square-blue-bayou-restaurant",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Lighter than the Hurricane; good with the seafood starters."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Blue Bayou Restaurant",
+      "n": "Melograno Melon Margarita",
+      "d": "Agave cocktail with a fresh melon and nopales cactus note — a softer take on a margarita.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-new-orleans-square-blue-bayou-restaurant",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Unexpected cactus-melon twist; pairs with Creole dishes."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Blue Bayou Restaurant",
+      "n": "Abita Amber Lager",
+      "d": "Louisiana Munich-style amber lager with smooth malt and light caramel — a Bayou classic pour.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$13.50",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-new-orleans-square-blue-bayou-restaurant",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Easy New Orleans lager choice if you want beer instead of a cocktail."
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Bloody Mary",
+      "d": "Tito's vodka Bloody Mary with Cutwater mix and a bacon slice — available all day.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-main-street-usa-carnation-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Main Street table service; strong breakfast or late brunch pick."
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Peach Pie Margarita",
+      "d": "Patrón Silver tequila margarita with peach purée, sweet-and-sour, and lime.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-main-street-usa-carnation-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Year-round signature; different from the seasonal Caramel Apple Martini."
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Chandon Sparkling Wine Mimosa",
+      "d": "Chandon sparkling wine mimosa with your choice of orange juice or lavender syrup.",
+      "w": "Morning",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round (breakfast)",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-main-street-usa-carnation-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Breakfast-only sparkling option; lavender syrup is the quieter order."
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Golden Road Ride On Hop Hazy IPA",
+      "d": "Anaheim-brewed hazy IPA — juicy and hop-forward — on the year-round beer list.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$10.75",
+      "window": "Year-round",
+      "source": "https://www.disneyboozeguide.com/disneyland-park-main-street-usa-carnation-cafe",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Local Golden Road pour; cheaper than most park cocktails."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Signature Bourbon Julep",
+      "d": "Bourbon cocktail with citrus and mint — the year-round house julep at Cafe Orleans.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cafe-orleans",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Pairs with the Monte Cristo; patio tables fill first at dinner."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Seaborn Margarita",
+      "d": "Seaborn passion-orange-guava margarita on the signature cocktail list.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cafe-orleans",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Wine-based Seaborn pour; lighter than a tequila margarita."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Sierra Nevada Hazy Little Thing IPA",
+      "d": "Chico, California hazy IPA (6.7% ABV) on draft at Cafe Orleans.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$12.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cafe-orleans",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Straightforward beer option next to the julep and margarita."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Karl Strauss Follow the Sun Lager",
+      "d": "Crisp San Diego lager (4.2% ABV) — an easy pairing with Creole plates.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$12.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cafe-orleans",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Light lager if you want something simple with the Monte Cristo."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "River Belle Terrace",
+      "n": "Cajun Lemonade Cocktail",
+      "d": "Savory-sweet-spicy vodka lemonade — the house signature at River Belle Terrace.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/river-belle-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Rivers of America views; solid with the fried chicken plate."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "River Belle Terrace",
+      "n": "Wildberry Mule",
+      "d": "Tito's vodka mule with blackberry purée, lime, ginger syrup, and blackberries.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/river-belle-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Fruit-forward mule; outdoor patio is the move on warm evenings."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "River Belle Terrace",
+      "n": "Peach Tea Cocktail",
+      "d": "Twisted Tea hard iced tea mixed with peach purée.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/river-belle-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Lowest-effort sip on the cocktail list; easy with BBQ-leaning plates."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "River Belle Terrace",
+      "n": "Modelo Especial Mexican Lager",
+      "d": "Crisp Mexican lager (4.4% ABV) on the River Belle beer list.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$12.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/river-belle-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Simple beer pour with river views before Fantasmic dining packages."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Port of San Fransokyo Cerveceria",
+      "n": "Karl Strauss Aurora Hoppyalis IPA",
+      "d": "Tropical fruit, pine, and tangerine IPA (7.0% ABV) from Karl Strauss on draft.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/port-of-san-fransokyo-cerveceria",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Mobile order available; beer garden seating fills mid-afternoon."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Port of San Fransokyo Cerveceria",
+      "n": "Karl Strauss Red Trolley Ale",
+      "d": "Deep copper ale with raisin-currant notes and a coffee-leaning finish (5.8% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/port-of-san-fransokyo-cerveceria",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Maltier pick next to the hoppier Aurora."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Port of San Fransokyo Cerveceria",
+      "n": "Karl Strauss Follow the Sun Lager",
+      "d": "Easy crisp lager with a clean light finish (4.2% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/port-of-san-fransokyo-cerveceria",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Lightest draft pour; also available as a Michelada."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Port of San Fransokyo Cerveceria",
+      "n": "Follow the Sun Lager Michelada",
+      "d": "Karl Strauss Follow the Sun Lager prepared as a Michelada.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$20.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/port-of-san-fransokyo-cerveceria",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Savory beer cocktail; good with the pretzel-wrapped hot dog."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Port of San Fransokyo Cerveceria",
+      "n": "Karl Strauss Beer Flight",
+      "d": "Flight of four Karl Strauss draft beers — choose your pours at the Cerveceria.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$18.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/port-of-san-fransokyo-cerveceria",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Best way to sample the rotating Karl Strauss taps without committing."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Sculpin IPA",
+      "d": "Ballast Point's flagship IPA — bright citrus and tropical hops, the Downtown Disney house classic.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Rooftop patio when weather is good; flagship first if you only try one."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Grapefruit Sculpin IPA",
+      "d": "Sculpin IPA with a fresh grapefruit squeeze for extra tangy bitterness.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Fruit-hop hybrid; pairs with the Baja fish tacos."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Pineapple Sculpin IPA",
+      "d": "Sculpin IPA finished with sweet juicy pineapple for a tropical hop pour.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Sweetest of the Sculpin family; good shareable with nachos."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Longfin Lager",
+      "d": "Traditional German Helles-style lager — light, bready, and clean.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Crisp lager lane if IPA is too much after park day."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Speedboat Salt & Lime Blonde",
+      "d": "Kölsch-style blonde with citrus-floral hops, Himalayan sea salt, and lime.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Salty-lime finish; a patio beer on hot Anaheim afternoons."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Ballast Point Brewing Co.",
+      "n": "Hazy Sculpin IPA",
+      "d": "East Coast-style hazy take on Sculpin with Galaxy and Nelson hops.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/ballast-point-brewing-company",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Juicier and softer bitterness than classic Sculpin."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Sonoma Terrace",
+      "n": "Pineapple Passion",
+      "d": "White rum cocktail with pineapple and passion fruit flavors.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/sonoma-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Performance Corridor beer garden; mobile order for faster pickup."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Sonoma Terrace",
+      "n": "Craftwell Hibiscus Lemonade",
+      "d": "Ready-to-drink hibiscus lemonade cocktail (about 10.5% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/sonoma-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Pre-mixed Craftwell can/pour — no wait on a custom cocktail."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Sonoma Terrace",
+      "n": "Craftwell Prickly Pear Margarita",
+      "d": "Craftwell prickly pear margarita from Corvallis, OR (about 8.5% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/sonoma-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Lower price than most park cocktails; good before World of Color."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Sonoma Terrace",
+      "n": "Calidad Cerveza Mexican-style Lager",
+      "d": "Santa Barbara Mexican-style lager (4.5% ABV) on draft at Sonoma Terrace.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/sonoma-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Also offered as a Michelada; pretzel bite nearby."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Sonoma Terrace",
+      "n": "Bottle Logic 714 Blonde Ale",
+      "d": "Anaheim blonde ale with honey malt and a citrus hop profile (4.8% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/sonoma-terrace",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Local Bottle Logic pour; easy sipping between shows."
     }
   ]
 }
