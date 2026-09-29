@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:15:00-07:00",
+  "updated": "2026-09-29T14:20:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -2322,6 +2322,46 @@
       "confidence": "reported",
       "found": "2026-09-29",
       "fact": "Five scoops for September only; the vegan GF option is Hoppy Apple Cider Sorbet."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Restaurant",
+      "n": "Chocolate Pumpkin Feather Cake",
+      "d": "Chocolate pumpkin cake with candied cranberries and dark chocolate sauce.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$16.00",
+      "window": "On dinner menu as of Sep 28, 2026 (Touring Plans)",
+      "source": "https://touringplans.com/disney-california-adventure/dining/carthay-circle-restaurant/menus/dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Fall dessert swap at Carthay dining room; Lounge is separate and already has year-round bar coverage."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Restaurant",
+      "n": "Warm Brown Butter Hummingbird Cake",
+      "d": "Warm brown-butter hummingbird cake with pecan brittle and pineapple sherbet.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$16.00",
+      "window": "On dinner menu as of Sep 28, 2026 (Touring Plans)",
+      "source": "https://touringplans.com/disney-california-adventure/dining/carthay-circle-restaurant/menus/dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Confirmed on Touring Plans dinner menu verified Sep 28 and Theme Park IQ live menu."
     }
   ]
 }
