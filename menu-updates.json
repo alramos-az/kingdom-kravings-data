@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:08:53-07:00",
+  "updated": "2026-09-29T14:15:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -2072,6 +2072,256 @@
       "confidence": "reported",
       "found": "2026-09-29",
       "fact": "Current craft IPA pour at Frozen Cone-Coctions."
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo",
+      "n": "Kid's Beef Taquitos",
+      "d": "Two shredded-beef taquitos with a Cuties mandarin, applesauce, and a choice of small water or lowfat milk.",
+      "w": "Meal",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$8.99",
+      "window": "Year-round as of Sep 3, 2026",
+      "source": "https://thedisneyscoop.com/rancho-del-zocalo-adds-nachos-a-shrimp-cocktail-and-horchata-slushies-to-its-disneyland-menu/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Part of the Sep 3 Rancho refresh; same kids price band as the burrito and quesadilla."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Beignets Expressed",
+      "n": "Chocolate Peanut Butter Cup Beignet",
+      "d": "Beignet with peanut butter icing, milk chocolate drizzle, and chocolate cookie crumble.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "timing"
+      ],
+      "price": "unknown",
+      "window": "September 2026 food of the month (through about Sep 30)",
+      "source": "https://mickeyblog.com/2026/09/03/taste-the-limited-time-september-flavors-around-downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "September glaze of the month; Caramel Apple Beignet takes over Oct 1."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Parkside Market Coffee",
+      "n": "Honey Boo Latte",
+      "d": "Honey-vanilla latte topped with house-made cold foam and cinnamon-sugar dusting.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "timing"
+      ],
+      "price": "$7.25",
+      "window": "September 2026 latte of the month (through about Sep 30)",
+      "source": "https://mickeyblog.com/2026/09/07/lets-try-the-seasonal-flavors-at-downtown-disneys-parkside-market-coffee/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "MickeyBlog paid $7.25; last day of September is the practical cutoff."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "The Frightful Delightful Yule Log",
+      "d": "Seasonal yule log dessert served with vanilla bean anglaise and chocolate crumbs.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$13.00",
+      "window": "Seen on dinner menu as of Sep 25, 2026",
+      "source": "https://touringplans.com/disneyland/dining/cafe-orleans/menus/dinner",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "On Touring Plans Cafe Orleans dinner menu verified Sep 25; not in the Aug foodie guide."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Parkside Market Coffee",
+      "n": "The Sleeping Curse",
+      "d": "Hot apple cider sweetened with brown sugar syrup.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Official Halloween foodie guide item that was missing from the baseline snapshot."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "Campfire Cream Soda",
+      "d": "Coca-Cola mixed with vanilla cream and marshmallow syrup.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Vista Parkside Market in Downtown Disney, separate from Parkside Market Coffee."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "Candy Corn Cream Soda",
+      "d": "Orange soda mixed with vanilla cream and marshmallow syrup.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Same Vista Parkside window as Campfire Cream Soda."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "Horned Shadow Elixir",
+      "d": "Tequila cocktail with blood orange juice, honey, and lime.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Official Halloween guide cocktail at Vista Parkside Market."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "All Hallow's Eve",
+      "d": "Mango-cherry whiskey cocktail with bourbon, Thai tea cacao vermouth, and bitters.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Official Halloween guide cocktail at Vista Parkside Market."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "Sleepy Hollow",
+      "d": "Dark rum cocktail with amaretto, chai simple syrup, lemon, vanilla, and bitters.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Official Halloween guide cocktail at Vista Parkside Market."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Vista Parkside Market",
+      "n": "The Raven's Revenge",
+      "d": "Chili cacao vodka cocktail with espresso, vanilla, and coffee liqueur.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Aug 21 through Oct 31, 2026",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-29",
+      "fact": "Official Halloween guide cocktail at Vista Parkside Market."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Salt & Straw",
+      "n": "Salt & Straw Apple Ice Cream Series",
+      "d": "September apple scoop series: Apple Cider Donuts, Apple and Cheddar Cinnamon Rolls, Salted Caramel Apple Pie, Vanilla Apple Custard Tart, and Hoppy Apple Cider Sorbet.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "timing"
+      ],
+      "price": "unknown",
+      "window": "September 2026 (through about Sep 30)",
+      "source": "https://mickeyblog.com/2026/09/03/taste-the-limited-time-september-flavors-around-downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-29",
+      "fact": "Five scoops for September only; the vegan GF option is Hoppy Apple Cider Sorbet."
     }
   ]
 }
