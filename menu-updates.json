@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:10:00-07:00",
+  "updated": "2026-09-30T07:15:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -2365,213 +2365,6 @@
     },
     {
       "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Minnie Chocolate Cake Pop",
-      "d": "Chocolate cake pop coated in milk chocolate with an orange white-chocolate bow.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$8.49",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
-      "confidence": "official",
-      "found": "2026-09-30",
-      "fact": "Also stocked at Candy Palace, Pooh Corner, Bing Bong's, and Wonderful World of Sweets."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Mickey Halloween Chocolate Cupcake",
-      "d": "Chocolate cupcake with chocolate buttercream, dark chocolate ears, crushed cookies, and gummy worms.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$7.49",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "On Touring Plans Trolley Treats snack menu verified Sep 25, 2026."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Minnie Halloween Vanilla Cupcake",
-      "d": "Vanilla cupcake with buttercream, dark chocolate ears, Halloween sprinkles, and a chocolate bow.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$7.49",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Pairs with the Mickey chocolate cupcake at the same candy case."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Mickey Pumpkin Spice Cereal Treat",
-      "d": "Pumpkin spice Mickey crisped-rice treat dipped in milk chocolate.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$9.99",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Different from the baseline Mickey Spiderweb cereal treat."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Large Mickey Spiderweb Cookie",
-      "d": "Large sugar cookie with colored chocolate coating and a chocolate Mickey piece.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$7.49",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Bigger shareable cookie than the shortbread bat style on Main Street."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Clarabelle Cow Caramel Apple",
-      "d": "Granny Smith apple in caramel and colored chocolate with sour-gummy horns and marshmallow features.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "kinder"
-      ],
-      "price": "$17.49",
-      "window": "Through Oct 31, while supplies last",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Buena Vista Street photo-op favorite near Clarabelle's ice cream."
-    },
-    {
-      "action": "add",
-      "land": "bvs",
-      "v": "Trolley Treats",
-      "n": "Pistachio Chocolate S'more",
-      "d": "Chocolate graham crackers and marshmallow with pistachio cream and chocolate coating.",
-      "w": "Snack",
-      "s": [
-        "year"
-      ],
-      "t": [
-        "new"
-      ],
-      "price": "$9.99",
-      "window": "Year-round as of Sep 25, 2026 menu",
-      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Contains pistachios; not a Halloween exclusive."
-    },
-    {
-      "action": "add",
-      "land": "tomorrow",
-      "v": "Galactic Grill",
-      "n": "Darth by Chocolate Cold Brew",
-      "d": "Joffrey's cold brew with red velvet and chocolate flavors, vanilla foam, cookie pieces, and sprinkles.",
-      "w": "Anytime",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "sip"
-      ],
-      "price": "$8.49",
-      "window": "Halloween season (menu-priced Aug 2026)",
-      "source": "https://thedisneyscoop.com/every-disneyland-halloween-time-food-item-and-what-it-costs-from-rest-in-chocolate-to-the-hatbox-ghost-bucket/",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Drink spin on the Darth by Chocolate parfait already in the baseline."
-    },
-    {
-      "action": "add",
-      "land": "nola",
-      "v": "Cafe Orleans",
-      "n": "Berry Cream Soda",
-      "d": "Sprite and cream with a splash of berry syrup.",
-      "w": "Anytime",
-      "s": [
-        "year"
-      ],
-      "t": [
-        "sip"
-      ],
-      "price": "unknown",
-      "window": "On dinner menu as of Sep 25, 2026",
-      "source": "https://touringplans.com/disneyland/dining/cafe-orleans/menus/dinner",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Non-alcoholic sip on the same Cafe Orleans dinner menu as the yule log."
-    },
-    {
-      "action": "add",
-      "land": "fantasy",
-      "v": "Edelweiss Snacks",
-      "n": "Fantasyland Garlic Cheesy Brat",
-      "d": "Bratwurst served in cheesy garlic pretzel bread.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new"
-      ],
-      "price": "$13.79",
-      "window": "Seasonal offering as of Sep 29, 2026",
-      "source": "https://touringplans.com/disneyland/dining/edelweiss-snacks/menus/snack",
-      "confidence": "reported",
-      "found": "2026-09-30",
-      "fact": "Touring Plans listed it under Seasonal Offering, verified Sep 29."
-    },
-    {
-      "action": "add",
       "land": "paradise",
       "v": "Wine Country Trattoria",
       "n": "Italian Margarita",
@@ -2706,7 +2499,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/lucky-fortune-cookery/menus/lunch-and-dinner",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lucky-fortune-cookery",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Mobile-order friendly; pairs with the teriyaki chicken or ramen bowls."
@@ -2726,7 +2519,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/lucky-fortune-cookery/menus/lunch-and-dinner",
+      "source": "https://www.themeparkiq.com/disneyland/dining/lucky-fortune-cookery",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Higher-ABV seltzer; grab outdoor seating facing the lagoon if available."
@@ -2826,7 +2619,7 @@
       ],
       "price": "$16.75",
       "window": "Year-round",
-      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "source": "https://www.themeparkiq.com/disneyland/dining/pym-test-kitchen",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Breakfast-friendly beer cocktail; Tasting Lab next door has more cocktail depth."
@@ -2846,7 +2639,7 @@
       ],
       "price": "$19.50",
       "window": "Year-round",
-      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "source": "https://www.themeparkiq.com/disneyland/dining/pym-test-kitchen",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Signature kitchen cocktail with boba-style spheres; available breakfast through dinner."
@@ -2866,7 +2659,7 @@
       ],
       "price": "$13.75",
       "window": "Year-round",
-      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "source": "https://www.themeparkiq.com/disneyland/dining/pym-test-kitchen",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Light citrus beer that pairs with the Quantum Pretzel and beer-cheese sauce."
@@ -2886,7 +2679,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "source": "https://www.themeparkiq.com/disneyland/dining/pym-test-kitchen",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Hopier pick on the kitchen beer board; campus outdoor tables fill fast at lunch."
@@ -2906,7 +2699,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "source": "https://www.themeparkiq.com/disneyland/dining/pym-test-kitchen",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Year-round kitchen beer; Strawberry Matcha Rum Cocktail is halloween-only and already in baseline."
@@ -2926,7 +2719,7 @@
       ],
       "price": "$17.00",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Walk-up window in Hollywood Land; shade seats across the plaza after midday heat."
@@ -2946,7 +2739,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Brunch-style seltzer; good before a Hollywood Land show break."
@@ -2966,7 +2759,7 @@
       ],
       "price": "$15.75",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Local hard seltzer option alongside the Seaborn pour."
@@ -2986,7 +2779,7 @@
       ],
       "price": "$21.50",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Ask which liquors are available that day; spicy-sweet finish from the chamoy rim."
@@ -3006,7 +2799,7 @@
       ],
       "price": "$19.50",
       "window": "Year-round",
-      "source": "https://www.laughingplace.com/p/schmoozies-guide-dining-disneyland-resort/",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Dessert-leaning coffee cocktail; Touring Plans lists it without a price, Laughing Place shows $19.50."
@@ -3026,7 +2819,7 @@
       ],
       "price": "$18.50",
       "window": "Year-round",
-      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "source": "https://www.themeparkiq.com/disneyland/dining/schmoozies-smoothies",
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Caffeine plus spirits; confirm the liquor choices at the window before ordering."
@@ -3572,6 +3365,211 @@
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Easy local blonde with a burger; drafts rotate—confirm at the bar."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Minnie Chocolate Cake Pop",
+      "d": "Chocolate cake pop coated in milk chocolate with an orange white-chocolate bow.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$8.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-30",
+      "fact": "Also stocked at Candy Palace, Pooh Corner, Bing Bong's, and Wonderful World of Sweets."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Mickey Halloween Chocolate Cupcake",
+      "d": "Chocolate cupcake with chocolate buttercream, dark chocolate ears, crushed cookies, and gummy worms.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "On Touring Plans Trolley Treats snack menu verified Sep 25, 2026."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Minnie Halloween Vanilla Cupcake",
+      "d": "Vanilla cupcake with buttercream, dark chocolate ears, Halloween sprinkles, and a chocolate bow.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Pairs with the Mickey chocolate cupcake at the same candy case."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Mickey Pumpkin Spice Cereal Treat",
+      "d": "Pumpkin spice Mickey crisped-rice treat dipped in milk chocolate.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$9.99",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Different from the baseline Mickey Spiderweb cereal treat."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Large Mickey Spiderweb Cookie",
+      "d": "Large sugar cookie with colored chocolate coating and a chocolate Mickey piece.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Bigger shareable cookie than the shortbread bat style on Main Street."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Clarabelle Cow Caramel Apple",
+      "d": "Granny Smith apple in caramel and colored chocolate with sour-gummy horns and marshmallow features.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$17.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Buena Vista Street photo-op favorite near Clarabelle's ice cream."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Pistachio Chocolate S'more",
+      "d": "Chocolate graham crackers and marshmallow with pistachio cream and chocolate coating.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$9.99",
+      "window": "Year-round as of Sep 25, 2026 menu",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Contains pistachios; not a Halloween exclusive."
+    },
+    {
+      "action": "add",
+      "land": "tomorrow",
+      "v": "Galactic Grill",
+      "n": "Darth by Chocolate Cold Brew",
+      "d": "Joffrey's cold brew with red velvet and chocolate flavors, vanilla foam, cookie pieces, and sprinkles.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "$8.49",
+      "window": "Halloween season (menu-priced Aug 2026)",
+      "source": "https://mickeyblog.com/2026/09/13/galactic-grills-halloween-eats-and-drinks-at-disneyland-park-are-out-of-this-world/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Drink spin on the Darth by Chocolate parfait already in the baseline."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Berry Cream Soda",
+      "d": "Sprite and cream with a splash of berry syrup.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "On dinner menu as of Sep 25, 2026",
+      "source": "https://touringplans.com/disneyland/dining/cafe-orleans/menus/dinner",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Non-alcoholic sip on the same Cafe Orleans dinner menu as the yule log."
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Edelweiss Snacks",
+      "n": "Fantasyland Garlic Cheesy Brat",
+      "d": "Bratwurst served in cheesy garlic pretzel bread.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [],
+      "price": "$13.79",
+      "window": "Year-round",
+      "source": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/",
+      "confidence": "official",
+      "found": "2026-09-30",
+      "fact": "Year-round at Edelweiss near Matterhorn; official dining page lists it with turkey legs."
     }
   ]
 }
