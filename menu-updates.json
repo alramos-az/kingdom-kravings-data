@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:20:00-07:00",
+  "updated": "2026-09-30T07:10:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -2362,6 +2362,1216 @@
       "confidence": "reported",
       "found": "2026-09-29",
       "fact": "Confirmed on Touring Plans dinner menu verified Sep 28 and Theme Park IQ live menu."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Minnie Chocolate Cake Pop",
+      "d": "Chocolate cake pop coated in milk chocolate with an orange white-chocolate bow.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$8.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://disneyparksblog.com/dlr/disney-eats-foodie-guide-to-halloween-at-disneyland-resort/",
+      "confidence": "official",
+      "found": "2026-09-30",
+      "fact": "Also stocked at Candy Palace, Pooh Corner, Bing Bong's, and Wonderful World of Sweets."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Mickey Halloween Chocolate Cupcake",
+      "d": "Chocolate cupcake with chocolate buttercream, dark chocolate ears, crushed cookies, and gummy worms.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "On Touring Plans Trolley Treats snack menu verified Sep 25, 2026."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Minnie Halloween Vanilla Cupcake",
+      "d": "Vanilla cupcake with buttercream, dark chocolate ears, Halloween sprinkles, and a chocolate bow.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Pairs with the Mickey chocolate cupcake at the same candy case."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Mickey Pumpkin Spice Cereal Treat",
+      "d": "Pumpkin spice Mickey crisped-rice treat dipped in milk chocolate.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$9.99",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Different from the baseline Mickey Spiderweb cereal treat."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Large Mickey Spiderweb Cookie",
+      "d": "Large sugar cookie with colored chocolate coating and a chocolate Mickey piece.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$7.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Bigger shareable cookie than the shortbread bat style on Main Street."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Clarabelle Cow Caramel Apple",
+      "d": "Granny Smith apple in caramel and colored chocolate with sour-gummy horns and marshmallow features.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "$17.49",
+      "window": "Through Oct 31, while supplies last",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Buena Vista Street photo-op favorite near Clarabelle's ice cream."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Trolley Treats",
+      "n": "Pistachio Chocolate S'more",
+      "d": "Chocolate graham crackers and marshmallow with pistachio cream and chocolate coating.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$9.99",
+      "window": "Year-round as of Sep 25, 2026 menu",
+      "source": "https://touringplans.com/disney-california-adventure/dining/trolley-treats/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Contains pistachios; not a Halloween exclusive."
+    },
+    {
+      "action": "add",
+      "land": "tomorrow",
+      "v": "Galactic Grill",
+      "n": "Darth by Chocolate Cold Brew",
+      "d": "Joffrey's cold brew with red velvet and chocolate flavors, vanilla foam, cookie pieces, and sprinkles.",
+      "w": "Anytime",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "$8.49",
+      "window": "Halloween season (menu-priced Aug 2026)",
+      "source": "https://thedisneyscoop.com/every-disneyland-halloween-time-food-item-and-what-it-costs-from-rest-in-chocolate-to-the-hatbox-ghost-bucket/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Drink spin on the Darth by Chocolate parfait already in the baseline."
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Cafe Orleans",
+      "n": "Berry Cream Soda",
+      "d": "Sprite and cream with a splash of berry syrup.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "On dinner menu as of Sep 25, 2026",
+      "source": "https://touringplans.com/disneyland/dining/cafe-orleans/menus/dinner",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Non-alcoholic sip on the same Cafe Orleans dinner menu as the yule log."
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Edelweiss Snacks",
+      "n": "Fantasyland Garlic Cheesy Brat",
+      "d": "Bratwurst served in cheesy garlic pretzel bread.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$13.79",
+      "window": "Seasonal offering as of Sep 29, 2026",
+      "source": "https://touringplans.com/disneyland/dining/edelweiss-snacks/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Touring Plans listed it under Seasonal Offering, verified Sep 29."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Italian Margarita",
+      "d": "1800 Silver tequila margarita with sweet-and-sour and a Disaronno Amaretto float.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$22.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Table-service patio near Golden Vine; quieter mid-afternoon between lunch and dinner seatings."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Trattoria Old Fashioned",
+      "d": "Bulleit rye with rosemary reduction, bitters and club soda.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "House twist on a classic; pairs well with the Bistecca if you have a reservation."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Aperol Spritz",
+      "d": "Aperol and La Marca Prosecco topped with soda water.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Light patio sipper; also appears in the Spritz Flight if you want to compare styles."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Passion Fruit Mule",
+      "d": "Tito's vodka mule with lime, ginger beer and passion fruit liqueur.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$22.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Bright fruit mule for warm park days; ask for shade seating on the terrace."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Frozen Limoncello",
+      "d": "Frozen Meletti limoncello blended with sweet-and-sour and lemonade.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$23.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Cool-down cocktail between World of Color and Paradise Gardens walks."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Wine Country Trattoria",
+      "n": "Spritz Flight",
+      "d": "Tasting flight with Aperol, limoncello and elderflower spritzes.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$23.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/wine-country-trattoria",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Best way to sample three spritz styles without committing to full pours."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Lucky Fortune Cookery",
+      "n": "Sapporo Premium Beer",
+      "d": "Japanese lager (about 4.9% ABV) served cold with quick-service bowls.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/lucky-fortune-cookery/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Mobile-order friendly; pairs with the teriyaki chicken or ramen bowls."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Lucky Fortune Cookery",
+      "n": "Brewery X Tokyo Tea Hard Seltzer",
+      "d": "Anaheim Brewery X hard seltzer (about 10% ABV) poured over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/lucky-fortune-cookery/menus/lunch-and-dinner",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Higher-ABV seltzer; grab outdoor seating facing the lagoon if available."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Aunt Cass Cafe",
+      "n": "Strawberry Soju Cocktail",
+      "d": "Jinro soju mixed with strawberry puree and a Japanese milk drink.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/aunt-cass-cafe",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Creamy soju sip near the Bakery Tour; quieter mid-morning after rope drop."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Aunt Cass Cafe",
+      "n": "Bottle Logic Logic Light Lager",
+      "d": "Local Anaheim premium lager at about 4.2% ABV.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$14.25",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/aunt-cass-cafe",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Easy lager with clam chowder or mac in a sourdough bowl."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Corn Dog Castle",
+      "n": "Modelo Especial",
+      "d": "Mexican pilsner-style lager about 4.4% ABV.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$12.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/corn-dog-castle",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Mobile order with a hand-dipped corn dog; picnic tables nearby in Paradise Gardens."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Corn Dog Castle",
+      "n": "Bottle Logic Iced Tea Lemonade Hard Seltzer",
+      "d": "Anaheim Bottle Logic iced-tea lemonade hard seltzer about 5% ABV.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/corn-dog-castle",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Only two alcoholic options here; confirm still listed in the Disneyland app before walking over."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Test Kitchen",
+      "n": "Beer Mimosa",
+      "d": "Wheat ale topped with Minute Maid orange juice.",
+      "w": "Morning",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Breakfast-friendly beer cocktail; Tasting Lab next door has more cocktail depth."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Test Kitchen",
+      "n": "Proton Potation",
+      "d": "Vodka lemonade with grenadine and cherry-flavored popping spheres.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Signature kitchen cocktail with boba-style spheres; available breakfast through dinner."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Test Kitchen",
+      "n": "Sierra Nevada Sunny Little Thing",
+      "d": "Citrus wheat ale about 5% ABV.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$13.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Light citrus beer that pairs with the Quantum Pretzel and beer-cheese sauce."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Test Kitchen",
+      "n": "Topa Topa Chief Peak IPA",
+      "d": "West Coast-style IPA about 7% ABV from Topa Topa Brewing.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Hopier pick on the kitchen beer board; campus outdoor tables fill fast at lunch."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Pym Test Kitchen",
+      "n": "Kona Big Wave Golden Ale",
+      "d": "Easy-drinking golden ale about 4.4% ABV.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.thrill-data.com/disney-menus/dlr/pym-test-kitchen",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Year-round kitchen beer; Strawberry Matcha Rum Cocktail is halloween-only and already in baseline."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Seaborn Lavender Lemonade",
+      "d": "San Diego Seaborn lavender lemonade about 9% ABV over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Walk-up window in Hollywood Land; shade seats across the plaza after midday heat."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Unsung Mimosa Hard Seltzer",
+      "d": "Anaheim Unsung mimosa hard seltzer about 9% ABV over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Brunch-style seltzer; good before a Hollywood Land show break."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Arrow Lodge Pink Lemonade Seltzer",
+      "d": "Covina Arrow Lodge pink lemonade hard seltzer about 9% ABV over ice.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Local hard seltzer option alongside the Seaborn pour."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Mangonada with Liquor",
+      "d": "Mango-peach smoothie with chamoy and chile-lime seasoning spiked with your choice of liquor.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$21.50",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Ask which liquors are available that day; spicy-sweet finish from the chamoy rim."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Affogato with Irish Cream Liqueur",
+      "d": "Vanilla ice cream topped with espresso and Irish cream liqueur.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Year-round",
+      "source": "https://www.laughingplace.com/p/schmoozies-guide-dining-disneyland-resort/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Dessert-leaning coffee cocktail; Touring Plans lists it without a price, Laughing Place shows $19.50."
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Schmoozies!",
+      "n": "Cold Brew Coffee with Liqueur or Liquor",
+      "d": "Iced cold brew spiked with your choice of liqueur or liquor.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.50",
+      "window": "Year-round",
+      "source": "https://touringplans.com/disney-california-adventure/dining/schmoozies/menus/snack",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Caffeine plus spirits; confirm the liquor choices at the window before ordering."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cappuccino Cart",
+      "n": "Coffee with Liqueur",
+      "d": "Hot coffee with Baileys, Kahlua, or Irish whiskey (whiskey add-on).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cappuccino-cart",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Cart near San Fransokyo; Irish whiskey is an extra charge on the menu."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cappuccino Cart",
+      "n": "Iced Coffee with Liqueur",
+      "d": "Iced coffee with Baileys, Kahlua, or Irish whiskey (whiskey add-on).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cappuccino-cart",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Same liqueur choices as the hot version; skip the halloween Peanut Butter Whiskey already in baseline."
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cappuccino Cart",
+      "n": "Hot Chocolate with Liqueur",
+      "d": "Hot cocoa with Baileys, Kahlua, or Irish whiskey (whiskey add-on).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/cappuccino-cart",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Cooler-evening cocoa cocktail; Coronado Pumpkin Spice Hard Cider is halloween-only in baseline."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "JZK Hurricane",
+      "d": "Silver and dark rum with pineapple, orange, grenadine and a 151 float.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "House hurricane on the patio; live jazz most evenings—check the venue schedule."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "Pear Mojito",
+      "d": "Absolut Pear with mint syrup, lime and soda.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Lighter patio cocktail; Downtown Disney no park ticket needed."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "Spa Watermelon Sour",
+      "d": "Cucumber vodka with watermelon puree, sweet-and-sour, foam and Tajin rim.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Refreshing Tajin-rim sour for warm afternoons on the patio."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "Smoke & Pineapple",
+      "d": "Del Maguey Vida mezcal with pineapple, Angostura, agave and lime.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Smoky mezcal option if you want something stronger than the hurricane."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "Peach Cobbler Old Fashioned",
+      "d": "Garrison Brothers bourbon with peach schnapps, Peychaud's and brown-sugar cinnamon.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Dessert-leaning old fashioned; good after a shared appetizer."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Jazz Kitchen Coastal Grill & Patio",
+      "n": "Kiwi Rum Punch",
+      "d": "Mount Gay silver rum with Midori, kiwi puree and pineapple.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.jazzkitchencoastalgrill.com/cocktails/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Fruit-forward punch; Century Sazerac ($29) is the upscale whiskey alternate if listed."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Naples Italian Margarita",
+      "d": "Blanco tequila margarita with orangecello, orange-lime juice and organic agave.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Happy hour Mon–Fri 2–5 PM often discounts this margarita; confirm that day."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Pulcinella Old Fashioned",
+      "d": "Buffalo Trace bourbon with Amaro Lucano Riserva, demerara and house bitters.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Amaro-forward old fashioned; sit upstairs if the downstairs patio is loud."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Espresso Martini",
+      "d": "Vodka espresso martini with Luxardo espresso liqueur.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Also on the brunch cocktail list; solid after pizza or pasta."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Smoky Desert Margarita",
+      "d": "Dos Hombres mezcal margarita with prickly pear, cucumber and lime.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Mezcal margarita with cucumber-mint garnish; good patio sip before fireworks crowds."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Aperol Spritz",
+      "d": "Aperol and prosecco spritz; tableside grande serves two for an upcharge.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Ask about the tableside grande if sharing; regular glass is $16."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Naples Ristorante e Bar",
+      "n": "Spicy Calabrian Margarita",
+      "d": "Blanco tequila margarita with Calabrian peppers, citrus and a Tajin rim.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.naplesristorante.com/menu",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Heat level varies; say if you want it milder when ordering."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "Ritual Margarita",
+      "d": "Mi Campo blanco tequila with ginger liqueur, guava syrup and lime.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$20.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Signature Paseo margarita; former Catal/Uva site in Downtown Disney."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "Smokey Paloma",
+      "d": "Mezcal paloma with Fever-Tree grapefruit, lime, grapefruit juice and agave.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Smoky grapefruit highball; Courtyard Céntrico next door is more casual tacos."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "Maya-Tai",
+      "d": "Ilegal mezcal mai tai with mandarin, avocado-pit orgeat, lime and salted guava foam.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "House mai tai riff; dinner service evenings—check hours before walking over."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "Xaman Old-Fashioned",
+      "d": "Nocheluna sotol old fashioned with corn liqueur, piloncillo and mole bitters.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Sotol-based old fashioned with a smoke top; slower sip for the dining room."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "DTS",
+      "d": "Tierra Zafiro blanco tequila with aloe liqueur, desert pear, lime and prosecco.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Sparkling tequila cocktail named for Downtown Disney District shorthand."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Paseo",
+      "n": "Margarita Classica",
+      "d": "Classic blanco tequila margarita with organic agave and non-GMO citrus.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.paseoanaheim.com/menus/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Straightforward house margarita if you want less ginger-guava than Ritual."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Passionfruit Mojito",
+      "d": "White rum mojito with passionfruit, lime, mint and soda.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Craft cocktail on the Downtown Disney menu; patio fills around dinner rush."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Watermelon Basil Smash",
+      "d": "Vodka smash with watermelon, lime and basil.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Herbaceous fruit cocktail; good with a shared snack before a CrazyShake."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Godfather Part II",
+      "d": "Bourbon and amaretto cocktail with bitters and orange twists.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Spirit-forward house cocktail; quieter late weekday afternoons."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Margarita",
+      "d": "Tequila margarita with agave, lime and chili salt.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Chili-salt rim; listed under Craft Cocktails on the DTD menu."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Golden Road X Black Tap IPA",
+      "d": "Collaboration IPA about 7% ABV from Golden Road and Black Tap.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$13.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "House collab draft; also look for Golden Road X Black Tap Red on tap."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Black Tap Craft Burgers & Shakes",
+      "n": "Anaheim Blonde Ale",
+      "d": "Local Anaheim blonde ale about 4.9% ABV on draft.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$12.00",
+      "window": "Year-round",
+      "source": "https://blacktap.com/restaurant-menu/downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Easy local blonde with a burger; drafts rotate—confirm at the bar."
     }
   ]
 }
