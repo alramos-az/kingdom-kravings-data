@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:15:00-07:00",
+  "updated": "2026-09-30T14:20:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3570,6 +3570,268 @@
       "confidence": "official",
       "found": "2026-09-30",
       "fact": "Year-round at Edelweiss near Matterhorn; official dining page lists it with turkey legs."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Ancient Old-Fashioned",
+      "d": "Abasolo whiskey old fashioned with Ancho Reyes, Nixta corn liqueur, and Angostura bitters.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Corn-liqueur twist on an old fashioned; open-air bar at Céntrico in Downtown Disney."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Margarita Clasica",
+      "d": "Blanco tequila margarita with organic agave and fresh orange and lime juices.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$16.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "House classic; Cadillac upgrade available. Pitchers for the patio group."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Mezcalita",
+      "d": "Dos Hombres mezcal cocktail with hibiscus, guava, lime, and Alma Finca orange liqueur.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Floral-fruit mezcal highball; good patio sip before walking to the parks."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Espresso Martini Carajillo Style",
+      "d": "Abasolo whisky espresso martini with Nixta, Licor 43, La Colombe cold brew, and Rocas.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$18.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Coffee-forward nightcap; dessert-course energy without leaving the courtyard."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Coco-Rocas",
+      "d": "Bacardi Superior rum with passion fruit, pineapple, and Coco Lopez.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Tropical coconut rum cooler; easy walk-up order at the open-air bar."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Centrico",
+      "n": "Spicey Mamacita",
+      "d": "Blanco tequila margarita with jalapeno spice, salt rim, and pepper garnish.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$17.00",
+      "window": "Year-round",
+      "source": "https://www.centricoanaheim.com/menus/beverages/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Spicy house margarita; ask for heat level if you are spice-shy."
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Paradise Garden Grill",
+      "n": "Buenaveza Salt & Lime Lager",
+      "d": "Stone Brewing Buenaveza salt and lime lager from Escondido (4.7% ABV).",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$15.75",
+      "window": "Year-round",
+      "source": "https://www.themeparkiq.com/disneyland/dining/paradise-garden-grill",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Year-round lager next to seasonal Marigold Margarita; mobile order friendly."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Peach & Basil Old Fashioned",
+      "d": "Elijah Craig rye old fashioned with basil sugar, bitters, and peach cotton candy on top.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "top"
+      ],
+      "price": "$21.00",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Signature showpiece; skip dunking the cotton candy if you want it less sweet."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Tea & Whiskey",
+      "d": "Garrison Brothers bourbon shaken with lemon, Earl Grey tea, bitters, egg white, and rosemary.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$22.00",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Soft bourbon-tea sour; solid terrace drink before fireworks views."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Lychee Colada",
+      "d": "Bacardi and Malibu rum blend with lychee puree, pineapple, and dragon fruit.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Floral tropical colada; less sweet than it looks on the menu."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Spirulina Negroni",
+      "d": "Empress 1908 gin negroni with dry vermouth, Luxardo Bitter, and spirulina.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$22.00",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Blue-green negroni riff; dinner-service sip at the upstairs bar."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Salted Caramel Espresso Martini",
+      "d": "Helix7 vodka espresso martini with Kahlua, espresso, and caramel.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "$20.00",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Dessert-course espresso martini; pair with Sticky Toffee Pudding upstairs."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Gordon Ramsay at The Carnaby",
+      "n": "Passion Fruit Royale",
+      "d": "Tito's vodka with passion fruit, vanilla, and prosecco, finished with a passion fruit bubble.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Year-round",
+      "source": "https://dapsmagic.com/2026/07/gordon-ramsay-at-the-carnaby-review-downtown-disney-dining/",
+      "confidence": "reported",
+      "found": "2026-09-30",
+      "fact": "Theatrical bubble garnish; no park ticket needed for Downtown Disney."
     }
   ]
 }
