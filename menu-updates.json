@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:20:00-07:00",
+  "updated": "2026-10-01T07:10:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -2094,47 +2094,16 @@
       "fact": "Part of the Sep 3 Rancho refresh; same kids price band as the burrito and quesadilla."
     },
     {
-      "action": "add",
+      "action": "gone",
       "land": "dtd",
-      "v": "Beignets Expressed",
       "n": "Chocolate Peanut Butter Cup Beignet",
-      "d": "Beignet with peanut butter icing, milk chocolate drizzle, and chocolate cookie crumble.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "timing"
-      ],
-      "price": "unknown",
-      "window": "September 2026 food of the month (through about Sep 30)",
-      "source": "https://mickeyblog.com/2026/09/03/taste-the-limited-time-september-flavors-around-downtown-disney/",
-      "confidence": "reported",
-      "found": "2026-09-29",
-      "fact": "September glaze of the month; Caramel Apple Beignet takes over Oct 1."
+      "confidence": "reported"
     },
     {
-      "action": "add",
+      "action": "gone",
       "land": "dtd",
-      "v": "Parkside Market Coffee",
       "n": "Honey Boo Latte",
-      "d": "Honey-vanilla latte topped with house-made cold foam and cinnamon-sugar dusting.",
-      "w": "Anytime",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "sip",
-        "timing"
-      ],
-      "price": "$7.25",
-      "window": "September 2026 latte of the month (through about Sep 30)",
-      "source": "https://mickeyblog.com/2026/09/07/lets-try-the-seasonal-flavors-at-downtown-disneys-parkside-market-coffee/",
-      "confidence": "reported",
-      "found": "2026-09-29",
-      "fact": "MickeyBlog paid $7.25; last day of September is the practical cutoff."
+      "confidence": "reported"
     },
     {
       "action": "add",
@@ -2303,25 +2272,10 @@
       "fact": "Official Halloween guide cocktail at Vista Parkside Market."
     },
     {
-      "action": "add",
+      "action": "gone",
       "land": "dtd",
-      "v": "Salt & Straw",
       "n": "Salt & Straw Apple Ice Cream Series",
-      "d": "September apple scoop series: Apple Cider Donuts, Apple and Cheddar Cinnamon Rolls, Salted Caramel Apple Pie, Vanilla Apple Custard Tart, and Hoppy Apple Cider Sorbet.",
-      "w": "Snack",
-      "s": [
-        "halloween"
-      ],
-      "t": [
-        "new",
-        "timing"
-      ],
-      "price": "unknown",
-      "window": "September 2026 (through about Sep 30)",
-      "source": "https://mickeyblog.com/2026/09/03/taste-the-limited-time-september-flavors-around-downtown-disney/",
-      "confidence": "reported",
-      "found": "2026-09-29",
-      "fact": "Five scoops for September only; the vegan GF option is Hoppy Apple Cider Sorbet."
+      "confidence": "reported"
     },
     {
       "action": "add",
@@ -3832,6 +3786,27 @@
       "confidence": "reported",
       "found": "2026-09-30",
       "fact": "Theatrical bubble garnish; no park ticket needed for Downtown Disney."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Salt & Straw",
+      "n": "Salt & Straw Halloween Ice Cream Series",
+      "d": "Halloween scoop flight: The Great Candycopia, Jack o' Lantern Pumpkin Bread, Creepy Crawly Critters, Witch's Brew Fruit Punch Sherbet, and vegan Chocolate Graveyard Cookie Crumble.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "timing"
+      ],
+      "price": "unknown",
+      "window": "Began Sep 25, 2026; typically through late October",
+      "source": "https://www.mainstmagic.com/salt-straw-halloween-2026/",
+      "confidence": "reported",
+      "found": "2026-10-01",
+      "fact": "Company Halloween lineup at scoop shops including Downtown Disney; Creepy Crawly Critters has edible insects."
     }
   ]
 }
