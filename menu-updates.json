@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T07:10:00-07:00",
+  "updated": "2026-10-01T14:05:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3807,6 +3807,27 @@
       "confidence": "reported",
       "found": "2026-10-01",
       "fact": "Company Halloween lineup at scoop shops including Downtown Disney; Creepy Crawly Critters has edible insects."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Poison Appletini",
+      "d": "Apple-forward martini poured with the returning Witch & Poison Apple Mug for Halloween at Carthay Circle Lounge.",
+      "w": "Evening",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "bar",
+        "timing"
+      ],
+      "price": "unknown",
+      "window": "From Oct 1, 2026 while supplies last",
+      "source": "https://www.laughingplace.com/disney-parks/witch-poison-apple-mug-carthay-circle-lounge/",
+      "confidence": "reported",
+      "found": "2026-10-01",
+      "fact": "2nd-edition mug starts today; limit two per person; reservations recommended at the lounge."
     }
   ]
 }
