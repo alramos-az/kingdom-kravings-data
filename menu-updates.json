@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:05:00-07:00",
+  "updated": "2026-10-04T14:20:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3828,6 +3828,26 @@
       "confidence": "reported",
       "found": "2026-10-01",
       "fact": "2nd-edition mug starts today; limit two per person; reservations recommended at the lounge."
+    },
+    {
+      "action": "add",
+      "land": "adventure",
+      "v": "The Tropical Hideaway",
+      "n": "Hoa Aloha Float",
+      "d": "Pineapple DOLE Whip floating in cucumber-lime agua fresca, finished with chamoy and candied kiwi, made for the 50-year Disney and DOLE partnership.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "timing"
+      ],
+      "price": "$9.99",
+      "window": "Limited time, while supplies last",
+      "source": "https://dapsmagic.com/2026/10/disney-dole-celebrate-50-year-collaboration-with-hoa-aloha-float-at-disneyland/",
+      "confidence": "reported",
+      "found": "2026-10-04",
+      "fact": "Walk-up window between the Tiki Room and Jungle Cruise. The cucumber-lime is strong, so try a classic float first if you are unsure."
     }
   ]
 }
