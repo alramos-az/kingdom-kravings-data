@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:20:00-07:00",
+  "updated": "2026-10-10T07:25:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3848,6 +3848,26 @@
       "confidence": "reported",
       "found": "2026-10-04",
       "fact": "Walk-up window between the Tiki Room and Jungle Cruise. The cucumber-lime is strong, so try a classic float first if you are unsure."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Avengers Campus food cart (near Hyperion Theater)",
+      "n": "Slice of NY Pizza",
+      "d": "New York-style pizza sold by the slice, in cheese or pepperoni, from a land cart that used to sell pizza pockets.",
+      "w": "Meal",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$9.49 cheese / $9.99 pepperoni",
+      "window": "unknown",
+      "source": "https://dapsmagic.com/2026/10/slice-of-ny-pizza-now-available-at-avengers-campus-at-disneyland-resort/",
+      "confidence": "reported",
+      "found": "2026-10-10",
+      "fact": "Find it at the second cart in Avengers Campus, on the Hyperion Theater side. A quick grab-and-go meal between rides."
     }
   ]
 }
