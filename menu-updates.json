@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:25:00-07:00",
+  "updated": "2026-10-11T07:15:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3868,6 +3868,28 @@
       "confidence": "reported",
       "found": "2026-10-10",
       "fact": "Find it at the second cart in Avengers Campus, on the Hyperion Theater side. A quick grab-and-go meal between rides."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Parkside Market Coffee",
+      "n": "Tres or Treat Latte",
+      "d": "October latte of the month inspired by tres leches, with white chocolate, pumpkin syrup, pumpkin cold foam, caramel and a fall spice dusting.",
+      "w": "Morning",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "timing"
+      ],
+      "price": "$7.25 (16 oz)",
+      "window": "October 2026 only (Latte of the Month)",
+      "source": "https://mickeyblog.com/2026/10/10/get-a-taste-of-fall-with-parkside-market-coffees-october-latte-of-the-month/",
+      "confidence": "reported",
+      "found": "2026-10-11",
+      "fact": "Comes hot or iced; the pumpkin and cinnamon come through strong, so the hot version suits a cool morning."
     }
   ]
 }
