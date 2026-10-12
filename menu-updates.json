@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T07:15:00-07:00",
+  "updated": "2026-10-12T07:34:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3852,7 +3852,7 @@
     {
       "action": "add",
       "land": "avengers",
-      "v": "Avengers Campus food cart (near Hyperion Theater)",
+      "v": "Shawarma Palace Too (Avengers Campus cart)",
       "n": "Slice of NY Pizza",
       "d": "New York-style pizza sold by the slice, in cheese or pepperoni, from a land cart that used to sell pizza pockets.",
       "w": "Meal",
@@ -3867,7 +3867,7 @@
       "source": "https://dapsmagic.com/2026/10/slice-of-ny-pizza-now-available-at-avengers-campus-at-disneyland-resort/",
       "confidence": "reported",
       "found": "2026-10-10",
-      "fact": "Find it at the second cart in Avengers Campus, on the Hyperion Theater side. A quick grab-and-go meal between rides."
+      "fact": "Cart near Guardians of the Galaxy - Mission: BREAKOUT!, on the Hyperion Theater side. A quick grab-and-go meal between rides."
     },
     {
       "action": "add",
