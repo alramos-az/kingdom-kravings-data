@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:25:00-07:00",
+  "updated": "2026-10-19T14:25:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3911,6 +3911,71 @@
       "confidence": "reported",
       "found": "2026-10-13",
       "fact": "Secret-menu staple — ask your server or bartender; not printed on the regular cocktail list."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Beignets Expressed",
+      "n": "Jasmine's Glazed Beignets",
+      "d": "Four glazed beignets with a purple ube glaze, a sweet pandan drizzle and toasted coconut, made for Filipino American History Month.",
+      "w": "Snack",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "timing",
+        "kinder"
+      ],
+      "price": "$15.99 (4 beignets)",
+      "window": "October 2026 only (Glazed of the Month)",
+      "source": "https://mickeyblog.com/2026/10/19/dig-into-the-october-flavors-around-downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-10-19",
+      "fact": "It's this month's second glazed special, next to the Caramel Apple beignet, so a mixed order lets you try both."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Napolini Pizzeria",
+      "n": "The Italian Classic",
+      "d": "October pizza of the month with tomato sauce, mozzarella, ham, bell pepper and oregano, the guest-voted winner of Naples' Ultimate Slice Showdown.",
+      "w": "Meal",
+      "s": [
+        "halloween"
+      ],
+      "t": [
+        "new",
+        "timing"
+      ],
+      "price": "unknown",
+      "window": "October 2026 only (Pizza of the Month)",
+      "source": "https://mickeyblog.com/2026/10/19/dig-into-the-october-flavors-around-downtown-disney/",
+      "confidence": "reported",
+      "found": "2026-10-19",
+      "fact": "Napolini is the grab-and-go window for Naples, so it's a quick slice without waiting for a table."
+    },
+    {
+      "action": "add",
+      "land": "dtd",
+      "v": "Salt & Straw",
+      "n": "Strawberry Pretzel Cheesecake Tacolate",
+      "d": "Waffle-cone taco shell filled with strawberry ice cream, dipped in cream cheese white chocolate, rolled in crushed pretzel, with cheesecake sauce for dipping.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "hack",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Debuted Oct 16, 2026; planned as a permanent item. Buy one, get one free on Tuesdays through October",
+      "source": "https://www.micechat.com/446399-disneyland-update-snowcapped-castle-candy-canes-tea-party/",
+      "confidence": "reported",
+      "found": "2026-10-19",
+      "fact": "Go on a Tuesday in October: the second Tacolate is free, so it's an easy one to split."
     }
   ]
 }
