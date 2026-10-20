@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T14:25:00-07:00",
+  "updated": "2026-10-20T14:20:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -3976,6 +3976,86 @@
       "confidence": "reported",
       "found": "2026-10-19",
       "fact": "Go on a Tuesday in October: the second Tacolate is free, so it's an easy one to split."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Spicy Beef Lettuce Wraps",
+      "d": "Spiced beef tucked into crisp lettuce cups with a cool pineapple-mint relish, a lighter shareable plate from the lounge's new fall menu.",
+      "w": "Meal",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$22",
+      "window": "Fall menu, end date unknown",
+      "source": "https://mickeyvisit.com/disneyland-restaurants-changed-menus-october-20-2026/",
+      "confidence": "reported",
+      "found": "2026-10-20",
+      "fact": "Grab a patio seat over Buena Vista Street; it's light enough to share before a full dinner."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Green Garbanzo Hummus",
+      "d": "Hummus made from green garbanzo beans with house-pickled vegetables and warm naan for dipping.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$16",
+      "window": "Fall menu, end date unknown",
+      "source": "https://mickeyvisit.com/disneyland-restaurants-changed-menus-october-20-2026/",
+      "confidence": "reported",
+      "found": "2026-10-20",
+      "fact": "It took over the old Naanza spot on the menu, so it's the go-to shareable starter now."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Caramelized Brussels Sprouts",
+      "d": "Caramelized Brussels sprouts with a poblano-cilantro dressing, cotija cheese and crunchy pumpkin seeds.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$14",
+      "window": "Fall menu, end date unknown",
+      "source": "https://mickeyvisit.com/disneyland-restaurants-changed-menus-october-20-2026/",
+      "confidence": "reported",
+      "found": "2026-10-20",
+      "fact": "The cheapest new plate on the fall lounge menu, a good small bite before a Hollywood Land evening."
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Carthay Circle Lounge",
+      "n": "Garnet Yam and Coconut Soup",
+      "d": "Creamy garnet yam and coconut soup with lemongrass-braised chicken and a swirl of chive oil.",
+      "w": "Snack",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$16",
+      "window": "Fall menu, end date unknown",
+      "source": "https://mickeyvisit.com/disneyland-restaurants-changed-menus-october-20-2026/",
+      "confidence": "reported",
+      "found": "2026-10-20",
+      "fact": "A warm pick for cooler fall nights; the lounge's patio gets breezy after sunset."
     }
   ]
 }
