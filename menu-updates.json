@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:20:00-07:00",
+  "updated": "2026-10-22T07:15:00-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -4056,6 +4056,27 @@
       "confidence": "reported",
       "found": "2026-10-20",
       "fact": "A warm pick for cooler fall nights; the lounge's patio gets breezy after sunset."
+    },
+    {
+      "action": "add",
+      "land": "pixar",
+      "v": "Lamplight Lounge",
+      "n": "Secret Menu DOLE Whip Shot",
+      "d": "Off-menu oversized shot that tastes like a boozy Dole Whip, blending coconut rum, citrus or vanilla vodka, pineapple juice and whipped cream.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "bar",
+        "offmenu"
+      ],
+      "price": "$20.75",
+      "window": "Year-round (ask your server)",
+      "source": "https://www.disneyfoodblog.com/2026/10/22/review-a-secret-menu-dole-whip-shot-the-popular-disney-restaurant-that-has-it-all/",
+      "confidence": "reported",
+      "found": "2026-10-22",
+      "fact": "Not printed on the menu, so ask for it by name. It also comes as a cocktail over ice for a couple dollars more."
     }
   ]
 }
