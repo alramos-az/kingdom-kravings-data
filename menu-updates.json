@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:15:00-07:00",
+  "updated": "2026-11-08T14:18:39-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -4077,6 +4077,1617 @@
       "confidence": "reported",
       "found": "2026-10-22",
       "fact": "Not printed on the menu, so ask for it by name. It also comes as a cocktail over ice for a couple dollars more."
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "Holiday Brisket KRAFT Mac and Cheese",
+      "d": "Cheddar mac topped with barbecue sauce and dill pickle crispy onions.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03",
+      "fact": "Listed among Disney's picks for younger eaters."
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "French Onion KRAFT Mac and Cheese",
+      "d": "White cheddar mac with caramelized onions and garlic crouton crunch.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "Duet of KRAFT Mac and Cheese",
+      "d": "A half portion of both the brisket and French onion mac, so you can taste each.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03",
+      "fact": "Best pick if the group can't agree on one flavor."
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "Merry Berry Holiday Punch",
+      "d": "Strawberry and citrus punch topped with cupcake cream and rainbow candy clusters.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "Seaborn Cran-Merry Lime Margarita",
+      "d": "Cranberry-lime margarita served over ice.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Holiday Duets",
+      "n": "Kern River Just Outstanding IPA",
+      "d": "Craft IPA from Kern River Brewing Company.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: A Twist on Tradition",
+      "n": "Chicken Pot Pie Wings",
+      "d": "Wings coated in rich gravy with herb pie crumble.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: A Twist on Tradition",
+      "n": "Shrimp and Grits",
+      "d": "Creamy grits topped with shrimp and andouille sausage.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: A Twist on Tradition",
+      "n": "TWIX Bits Iced Chocolate",
+      "d": "Chocolate oat milk iced drink with caramel and cookie butter syrups, whipped cream and TWIX Bits.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: A Twist on Tradition",
+      "n": "Stella Artois Pilsner",
+      "d": "Draft pilsner pour from the booth.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Brews and Bites",
+      "n": "Chorizo Queso Fundido",
+      "d": "Melted cheese with chorizo, served with tortilla chips for sharing.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Brews and Bites",
+      "n": "Hot Cocoa Macaron",
+      "d": "Macaron with marshmallow cream cheese filling and chocolate ganache, topped with mini marshmallows.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Brews and Bites",
+      "n": "Cafe de Olla Cold Brew",
+      "d": "Cold brew with spiced syrup, condensed milk and chocolate dulce de leche cream, garnished with pan dulce.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Brews and Bites",
+      "n": "Apple Cider Guava Margarita",
+      "d": "Tequila with apple cider and guava syrup, garnished with a dried apple chip.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Brews and Bites",
+      "n": "Unsung Brewing Chocolate Snowball Blonde Ale",
+      "d": "Chocolate-flavored blonde ale from Unsung Brewing Co.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Grandma's Recipes",
+      "n": "Turkey Tamale",
+      "d": "Tamale with gravy, roasted vegetables and cranberry relish.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Grandma's Recipes",
+      "n": "Sweet Potato Pecan Pie",
+      "d": "Pie with pecan streusel, spiced cream and a candied pecan.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Grandma's Recipes",
+      "n": "Berry Pomegranate Paloma",
+      "d": "Tequila paloma with blueberry, cranberry and pomegranate and a chile lime rim.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Grandma's Recipes",
+      "n": "Bottle Logic 3 on the Tree Nectarine Blonde Ale",
+      "d": "Nectarine blonde ale from Bottle Logic Brewing.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Favorite Things",
+      "n": "Braised Pork Belly Adobo",
+      "d": "Tender pork belly in adobo sauce over garlic rice.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Favorite Things",
+      "n": "Santa Milk and Cookies Hot Cocoa",
+      "d": "Cookies-and-cream and white chocolate cocoa topped with whipped cream.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Favorite Things",
+      "n": "Maple Hazelnut Hot Buttered Rum",
+      "d": "Warm rum drink with hazelnut, maple and spices, topped with salted caramel cream.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Favorite Things",
+      "n": "Left Coast Churro Ale",
+      "d": "Churro-flavored ale from Left Coast Brewing Co.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Merry Mashups",
+      "n": "Reimagined Beef Wellington",
+      "d": "Mashed potatoes with beef jus, crispy prosciutto, mushroom cream sauce and puff pastry.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Merry Mashups",
+      "n": "Cookie Butter and Jelly Cheesecake Tart",
+      "d": "Cookie butter cheesecake with strawberry jam in a graham cracker shell.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Merry Mashups",
+      "n": "Cran-Blackberry Mule",
+      "d": "Bourbon with cranberry and blackberry, topped with ginger beer.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Festive Foods Marketplace: Merry Mashups",
+      "n": "Salted Caramel Brownie White Russian",
+      "d": "Vodka and coffee liqueur with oat milk, salted caramel cream and a brownie on top.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Disney ¡Viva Navidad! food booth",
+      "n": "Red Velvet Cake Flan",
+      "d": "Red velvet flan with whipped topping and holiday sprinkles.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "bvs",
+      "v": "Clarabelle's Hand-Scooped Ice Cream",
+      "n": "Holiday Mickey Ice Cream Bar",
+      "d": "Mickey bar dipped in white chocolate with crushed peppermint.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 12 – Jan 21",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Studio Catering Co.",
+      "n": "Southern Holiday Brisket Taco",
+      "d": "Chipotle BBQ brisket taco with corn salsa, cotija, crema and lime.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Studio Catering Co.",
+      "n": "Holiday Leftover Burrito",
+      "d": "Burrito stuffed with turkey, stuffing, sweet potato bites and cranberry, gravy on the side.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04",
+      "fact": "Gravy comes on the side for dipping."
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Terran Treats",
+      "n": "Salted Caramel Chocolate Cake",
+      "d": "Chocolate lava cake with salted caramel, fleur de sel, whipped topping and fruity cereal.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Aunt Cass Cafe",
+      "n": "Caramel Apple Bread Pudding",
+      "d": "Bread pudding with caramelized apples, whipped topping and caramel sauce.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Lucky Fortune Cookery",
+      "n": "Orange Chicken Rice Bowl",
+      "d": "Orange glazed chicken with vegetables, mandarin oranges and steamed rice.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Rita's Turbine Blenders",
+      "n": "Hot Blueberry Apple Cider",
+      "d": "Warm blueberry apple cider.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Rita's Turbine Blenders",
+      "n": "Bourbon Berry Elixir",
+      "d": "Hot blueberry apple cider spiked with bourbon.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cocina Cucamonga Mexican Grill",
+      "n": "Sunset Agua Fresca",
+      "d": "Agua fresca with yuzu, cranberry, cinnamon and clove.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Cappuccino Cart",
+      "n": "Chocolate Horchata",
+      "d": "House-made horchata with hot chocolate flavored cold foam.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Flo's V8 Cafe",
+      "n": "Holiday Pineapple-Honey Glazed Chicken Strips",
+      "d": "Glazed chicken strips with green onions and fries.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza and Pasta",
+      "n": "Cookie Butter Trifle",
+      "d": "Cookie butter, cheesecake mousse and vanilla cream topped with a spice cookie.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 21",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Loaded Pulled Pork Fries",
+      "d": "Fries with pulled pork, cranberry BBQ sauce, gochujang aioli and pickled onions.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "grizzly",
+      "v": "Smokejumpers Grill",
+      "n": "Berry Pomegranate Paloma (Smokejumpers)",
+      "d": "Tequila paloma with blueberry, cranberry and pomegranate.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Select outdoor vending carts",
+      "n": "Mickey Gingerbread Cookie",
+      "d": "Mickey-shaped gingerbread cookie with sprinkles.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "dca-carts",
+      "v": "Select outdoor vending carts",
+      "n": "Cherry Cotton Candy in a Snowflake Bag",
+      "d": "Cherry cotton candy packed in a snowflake bag.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/03/disney-festival-of-holidays-2026-foodie-guide/",
+      "confidence": "reported",
+      "found": "2026-11-03"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Holiday Matterhorn Macaroon",
+      "d": "Coconut macaroon dipped in white chocolate and sprinkles.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Thanks-mas Sandwich",
+      "d": "Sandwich with turkey, stuffing, gravy and cranberry sauce.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Turkey Pot Pie Soup",
+      "d": "Hearty turkey pot pie soup.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Milk and Cookies Tree Macaron",
+      "d": "Tree-shaped macaron in a milk and cookies flavor.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "S'mores Cheesecake",
+      "d": "Cheesecake with s'mores flavors.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Sticky Toffee Bundt Cake",
+      "d": "Sticky toffee bundt cake.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Jolly Holiday Bakery Cafe",
+      "n": "Peppermint Mocha Cold Brew",
+      "d": "Cold brew with peppermint mocha flavor.",
+      "w": "Morning",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Pomegranate-Jalapeno-Ginger Spritzer",
+      "d": "Spritzer with pomegranate, jalapeno and ginger.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Carnation Cafe",
+      "n": "Eggnog Old Fashioned",
+      "d": "Old fashioned built with eggnog flavors.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Gibson Girl Ice Cream Parlor",
+      "n": "Peppermint Holiday Sundae",
+      "d": "Peppermint sundae served in a candy-topped waffle bowl.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Plaza Inn",
+      "n": "Gingerbread Cake",
+      "d": "Gingerbread cake for the holidays.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Refreshment Corner",
+      "n": "Philly Cheese Potato",
+      "d": "Baked potato loaded with Philly cheesesteak style toppings.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "main",
+      "v": "Refreshment Corner",
+      "n": "Warm Spiced Apple Tea",
+      "d": "Hot spiced apple tea.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "adventure",
+      "v": "Tiki Juice Bar",
+      "n": "Holiday DOLE Whip Cone",
+      "d": "DOLE Whip cone topped with holiday sprinkles.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "Rancho del Zocalo Restaurante",
+      "n": "Hot Chocolate Cafe",
+      "d": "Hot chocolate with espresso and coconut.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "frontier",
+      "v": "River Belle Terrace",
+      "n": "Chocolate Mint Cake",
+      "d": "Chocolate cake with peppermint cream.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Harbour Galley",
+      "n": "Gingerbread Cookie Packs",
+      "d": "Fresh baked gingerbread cookies in packs of six or 13 with a holiday royal icing dip.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "nola",
+      "v": "Mint Julep Bar",
+      "n": "Enchanted Holiday Cocoa Dip",
+      "d": "Cocoa dipping sauce for beignets.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Red Rose Taverne",
+      "n": "Christmas Stuff",
+      "d": "Green mousse with brown sugar cake and lingonberry jam.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Red Rose Taverne",
+      "n": "French Toast Cold Brew",
+      "d": "Returning cold brew with French toast flavors.",
+      "w": "Morning",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Maurice's Treats",
+      "n": "Sea Salt Vanilla Cream",
+      "d": "Sea salt vanilla cream treat with sprinkles.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "fantasy",
+      "v": "Edelweiss Snacks",
+      "n": "Matterhorn Puff",
+      "d": "Puff pastry filled with cinnamon apples and cream.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "toontown",
+      "v": "Cafe Daisy",
+      "n": "Peppermint Smores Hot Chocolate",
+      "d": "Hot chocolate with peppermint and s'mores flavors.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "tomorrow",
+      "v": "Alien Pizza Planet",
+      "n": "Alien Reindeer Macarooooon",
+      "d": "Reindeer-themed alien macaron.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "tomorrow",
+      "v": "Galactic Grill",
+      "n": "Merry Cranberry Crispy Chicken Sandwich",
+      "d": "Crispy chicken sandwich with cranberry.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "tomorrow",
+      "v": "Churro carts near Astro Blasters",
+      "n": "Caramel-Peanut Butter Candy Loaded Dip",
+      "d": "Caramel and peanut butter candy dip for churros.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Pym Test Kitchen",
+      "n": "French Dip Grilled Cheese",
+      "d": "Grilled cheese with prime rib and beef jus.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Lucky Fortune Cookery",
+      "n": "Cinnamon Pear Mule",
+      "d": "Mule cocktail with cinnamon pear flavors.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "sfs",
+      "v": "Lucky Fortune Cookery",
+      "n": "Santa Baymax Macaron",
+      "d": "Santa Baymax themed macaron.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "hollywood",
+      "v": "Award Wieners",
+      "n": "Don't Forget the Milk and Cookies Fried Cookies",
+      "d": "Returning fried cookies served milk and cookies style.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone Motel",
+      "n": "Jerry's Junk Truck Cone",
+      "d": "Cone filled with fried chicken and mashed potatoes.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "cars",
+      "v": "Cozy Cone Motel",
+      "n": "Snowy Matcha Foam Iced Coffee",
+      "d": "Vietnamese iced coffee topped with matcha sweet cream foam.",
+      "w": "Anytime",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "sip"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "paradise",
+      "v": "Boardwalk Pizza and Pasta",
+      "n": "Italian Sausage Pesto Pizza",
+      "d": "Pizza with Italian sausage and pesto.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Nov 13 – Jan 6",
+      "source": "https://themainstreetmouse.com/2026/11/04/disneyland-holiday-food-guide-2026/",
+      "confidence": "reported",
+      "found": "2026-11-04"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Pepperoni Pizza Egg Roll",
+      "d": "Pepperoni pizza egg roll served with pesto dipping sauce.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "$8.29",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Pomegranate-Blueberry Refresher",
+      "d": "Pomegranate and lime refresher with blueberry foam and berries; no alcohol.",
+      "w": "Anytime",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "kinder"
+      ],
+      "price": "$7.99",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Vodka Pomegranate-Blueberry Martini",
+      "d": "Vodka with pomegranate and lime juices topped with blueberry foam.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Strawberry-Mango Margarita",
+      "d": "Tequila with strawberry, mango, orange and lime and a chile-lime rim.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "$19.00",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Southern Whiskey Peach Tea",
+      "d": "Whiskey with peach black tea and a peach gummy ring.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "$19.50",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Bountiful Valley Cocktail Flight",
+      "d": "Flight of the martini, margarita and whiskey peach tea side by side.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "bar",
+        "top"
+      ],
+      "price": "$21.00",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "avengers",
+      "v": "Bountiful Valley Brews",
+      "n": "Mango-Habanero Michelada",
+      "d": "Michelada with mango and habanero.",
+      "w": "Evening",
+      "s": [
+        "year"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "$18.25",
+      "window": "Opens Nov 19 (prices as of Nov 5)",
+      "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
+      "confidence": "reported",
+      "found": "2026-11-05"
     }
   ]
 }
