@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:18:39-07:00",
+  "updated": "2026-11-22T14:10:19-07:00",
   "by": "Krave Skout",
   "items": [
     {
@@ -5688,6 +5688,131 @@
       "source": "https://thedisneyscoop.com/bountiful-valley-brews-opens-november-19-at-disney-california-adventure-with-a-21-cocktail-flight/",
       "confidence": "reported",
       "found": "2026-11-05"
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Docking Bay 7 Food and Cargo",
+      "n": "Kashyyyk Cake",
+      "d": "Brownie base layered with raspberry sauce, tiramisu and dark chocolate mousse, a returning Life Day dessert.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "top"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "Named for the Wookiee home planet; it stays on the menu through the end of the holidays."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Milk Stand",
+      "n": "Blue Milk with Golden Lichen Paddy Frog Eggs",
+      "d": "Frozen plant-based Blue Milk swirled with strawberry puree and topped with golden lychee popping spheres.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "sip",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "The popping spheres are the \"frog eggs\"; it is a fun one for kids to try."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Milk Stand",
+      "n": "Wookiee Ookiee",
+      "d": "Pecan chocolate shortbread cookie with a salted caramel center, a returning Life Day exclusive.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "kinder"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "A Life Day exclusive, so grab it before the holiday season ends."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Kat Saka's Kettle",
+      "n": "Caramel Apple Popped Grains",
+      "d": "Popcorn tossed in caramel apple seasoning for the Life Day season.",
+      "w": "Snack",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "Easy walk-around snack near the entrance to Black Spire Outpost."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Joh Blastoh Sangria Gocola",
+      "d": "Red wine sangria with apple vodka, cider, citrus juices and spiced syrups, rimmed with cinnamon spice and garnished with an apple chip.",
+      "w": "Evening",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new",
+        "bar"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "The only alcoholic Life Day item; reservations for Oga's are worth booking ahead."
+    },
+    {
+      "action": "add",
+      "land": "galaxy",
+      "v": "Oga's Cantina",
+      "n": "Millaflower Toast",
+      "d": "Cinnamon roll toast topped with sweet cream frosting, yogurt popping spheres and fresh strawberries.",
+      "w": "Meal",
+      "s": [
+        "holiday"
+      ],
+      "t": [
+        "new"
+      ],
+      "price": "unknown",
+      "window": "Through Jan 6, 2027",
+      "source": "https://thedisneyscoop.com/life-day-2026-food-disneyland-kashyyyk-cake-wookiee-ookiee-photos/",
+      "confidence": "reported",
+      "found": "2026-11-22",
+      "fact": "A sweet pairing for the cantina's Life Day sangria."
     }
   ]
 }
